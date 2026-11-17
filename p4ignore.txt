@@ -1,0 +1,15 @@
+# Directories at the workspace root
+/Local
+/Lib
+/Temp
+/Bin
+/bin
+/.vs
+
+# Build artifacts and compiled files anywhere in the tree
+**.cso
+**.obj
+
+# Project configuration and temporary files
+Makefile
+*.sln

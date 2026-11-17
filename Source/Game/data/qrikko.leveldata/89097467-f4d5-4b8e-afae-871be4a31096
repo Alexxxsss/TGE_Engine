@@ -1,0 +1,20 @@
+{
+  "name": "obj",
+  "object-definition": "obj",
+  "path": "",
+  "rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "translation": [
+    -523.76708984375,
+    0.0,
+    0.0
+  ]
+}
